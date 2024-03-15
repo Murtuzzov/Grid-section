@@ -1,0 +1,14 @@
+@import "./base/normalize";
+@import "./base/fonts";
+@import "./components/section";
+
+* {
+  font-family: "Inter";
+}
+
+body {
+  background-color: darkslategray;
+  width: 706px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
